@@ -2,7 +2,7 @@
 
 Roku does not have parental controls.
 
-What Roku _does_ have is an unauthenticated HTTP server running that allows you do, among other things, query the currently-running app and emulate remote key presses.
+What Roku _does_ have is an unauthenticated HTTP endpoint that allows you to, among other things, query the currently-running app and emulate remote key presses.
 
 Eventually this will be a sophisticated system that will allow one to set up all manner of time-based rules:
 
